@@ -1,0 +1,61 @@
+#exam-prep #devops 
+
+# Services - Networking
+
+1. [[VPC Overview]]
+2. [[Custom VPC Demo]]
+3. [[Subnets]]
+4. [[Routing in VPC]]
+5. [[Route Table in VPC]]
+6. [[Internet Gateways VPC]]
+7. [[NAT Gateways VPC]]
+8. [[Private and Public Subnets]]
+9. [[DNS VPC]]
+10. [[Elastic IP]]
+11. [[Security Groups & NACLs]]
+12. [[Load Balancers]]
+13. [[VPN]]
+14. [[Direct Connect]]
+15. [[VPC Peering]]
+16. [[Transit Gateway]]
+17. [[Privatelink]]
+18. [[CloudFront]]
+19. [[Lambda@Edge]]
+20. [[Global Accelerator]]
+21. [[Route 53]]
+22. [[Route 53 Application Recovery Controller]]
+23. [[Quiz - Services Networking]]
+
+# Services Storage
+
+1. [[EBS]]
+2. [[Instance Store]]
+3. [[EFS]]
+4. [[FSx for Windows]]
+5. [[S3]]
+6. [[S3 - Demo]]
+7. [[S3 Storage Classes]]
+8. [[S3 Versioning]]
+9. [[S3 ALC and Resource]]
+10. [[S3 Static Website Hosting]]
+11. [[S3 Pres Signed URLs]]
+12. [[S3 Access Points]]
+13. [[AWS Backup]]
+14. [[Elastic Disaster Recovery]]
+15. [[Storage Gateway]]
+16. [[Quiz - Services Storage]]
+
+# Services Compute
+
+1. [[IAM]]
+2. [[IAM Identity Center (SSO)]]
+3. [[Cognito]]
+4. [[Directory Service]]
+5. [[Verified Permissions]]
+6. [[CloudTrail]]
+7. [[Config]]
+8. [[Artifact]]
+9. [[GuardDuty]]
+10. [[Inspector]]
+11. [[Macie]]
+12. 
