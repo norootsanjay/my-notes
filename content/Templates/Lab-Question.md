@@ -21,5 +21,5 @@
 ## Hints
 - Use `useradd` with `-u` for UID.
 - Home directory can be specified with `-d`.
-
+-
 ---
